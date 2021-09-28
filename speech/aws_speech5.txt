@@ -1,0 +1,4 @@
+<speak>
+    ルビをつけると「日本橋」を「<phoneme type="ruby" ph="にっぽんばし">日本橋</phoneme>」と読ませることができます。
+    アクセントをつけると「ありがとう」を「<phoneme alphabet="x-amazon-pron-kana" ph="アリガト'ウ">ありがとう</phoneme>」と読ませることができます。
+</speak>
